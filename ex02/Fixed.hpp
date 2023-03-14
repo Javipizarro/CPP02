@@ -6,7 +6,7 @@
 /*   By: jpizarro <jpizarro@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/08 05:57:45 by jpizarro          #+#    #+#             */
-/*   Updated: 2023/03/08 20:30:17 by jpizarro         ###   ########.fr       */
+/*   Updated: 2023/03/14 22:57:55 by jpizarro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,10 @@
 # include <iostream>
 # include <cmath>
 
-using namespace std;
+using std::cout;
+using std::endl;
+using std::string;
+using std::ostream;
 
 class	Fixed {
 
